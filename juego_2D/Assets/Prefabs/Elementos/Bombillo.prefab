@@ -176,7 +176,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8458741130109780203}
   m_Layer: 0
-  m_Name: Bombillos
+  m_Name: Bombillo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
